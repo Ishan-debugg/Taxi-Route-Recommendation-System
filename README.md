@@ -67,7 +67,7 @@ Taxi-Route-Recommendation-System/
 ## 🏗️ Model Architecture
 
 <p align="center">
-  <img src="images/model_archh.png" width="900">
+  <img src="images/model archh.png" width="900">
 </p>
 
 The proposed hybrid pipeline consists of:

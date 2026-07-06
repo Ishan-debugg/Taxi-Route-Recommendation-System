@@ -100,7 +100,7 @@ to recommend the most profitable route for a taxi driver.
 ## 📊 Results
 
 <p align="center">
-  <img src="images/images\Comparsion_model.png" width="850">
+  <img src="images/Comparsion_model.png" width="850">
 </p>
 
 The hybrid model effectively captures both **spatial road relationships** and **temporal demand dynamics**, resulting in accurate demand prediction and intelligent route recommendations.

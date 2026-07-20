@@ -38,12 +38,13 @@ An AI-powered **spatio-temporal taxi route recommendation system** that combines
 - Matplotlib
 - NetworkX
 - SHAP
+- Seaborn
 
 ---
 
 ## 📁 Project Structure
 
-```text
+```texts
 Taxi-Route-Recommendation-System/
 │
 ├── notebooks/
